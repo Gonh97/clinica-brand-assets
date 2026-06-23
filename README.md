@@ -27,6 +27,20 @@ Sesión 01 — Médicos / Clínica. Formato **4:5**, fotorrealista, look cinemat
 
 Las imágenes están en [`propuestas-fotograficas/01-sesion-medicos/`](propuestas-fotograficas/01-sesion-medicos/).
 
+### Sesión 02 — Quirófano / Cirugía
+
+Entorno quirúrgico con el mismo nivel de detalle cinematográfico, **reemplazando el típico frío azul/teal de quirófano por la paleta cálida de marca**. Batas verde olivo (Tinny Tin). Formato **4:5**.
+
+| # | Título | Concepto |
+|---|--------|----------|
+| 01 | Preparación | Cirujano ajustando gorro, contacto directo |
+| 02 | Concentración | Cirujano con lentes operando, vista frontal |
+| 03 | Perfil en Foco | Perfil 3/4, bokeh dorado de lámparas |
+| 04 | Manos en Cirugía | Macro de manos enguantadas con instrumental |
+| 05 | Equipo Quirúrgico | Plano abierto del equipo en quirófano |
+
+En [`propuestas-fotograficas/02-sesion-quirofano/`](propuestas-fotograficas/02-sesion-quirofano/).
+
 ## ⚙️ Especificaciones técnicas
 
 - **Generación:** Higgsfield — Nano Banana (Google), resolución 2K
