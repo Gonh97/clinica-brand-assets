@@ -71,9 +71,23 @@ Ajuste de color para cirugía: **paleta neutra/blanca, high-key**, donde **ni el
 
 En [`propuestas-fotograficas/04-quirofano-neutro-blanco/`](propuestas-fotograficas/04-quirofano-neutro-blanco/).
 
-**Criterio cromático consolidado de la marca:**
-- 🟢 **Consulta / atención / staff** → bata verde olivo + paleta cálida (Grain Brown / Tinny Tin / Marshland)
-- ⚪ **Quirófano / cirugía** → bata azul + paleta neutra/blanca high-key (puente sin contraste duro)
+### Sesión 05 — Consulta verde en tono neutro (armonización final)
+
+Las escenas de consulta (bata verde) ajustadas a un **punto medio neutro**: paredes beige pero **suaves y desaturadas**, menos cálidas, high-key. Así **compaginan con las de cirugía** (azul neutro) manteniendo el verde olivo como acento de marca.
+
+| # | Título | Contexto | Color |
+|---|--------|----------|-------|
+| 01 | Médico en Consulta | Consulta | Verde + neutro suave |
+| 02 | Doctor y Paciente | Consulta | Verde + neutro suave |
+| 03 | Staff / Recepción | Atención | Verde + neutro suave |
+
+En [`propuestas-fotograficas/05-consulta-verde-neutro/`](propuestas-fotograficas/05-consulta-verde-neutro/).
+
+**Criterio cromático consolidado de la marca (FINAL):**
+- 🟢 **Consulta / atención / staff** → bata verde olivo + base neutra suave (beige desaturado, high-key) → sesión 05
+- ⚪ **Quirófano / cirugía** → bata azul + paleta neutra/blanca high-key → sesión 04
+
+Ambos contextos comparten una **base neutra high-key común**, diferenciándose solo por el color de bata (verde vs azul). Esto evita el choque entre lo muy cálido y lo frío.
 
 ## ⚙️ Especificaciones técnicas
 
