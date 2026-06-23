@@ -41,6 +41,24 @@ Entorno quirúrgico con el mismo nivel de detalle cinematográfico, **reemplazan
 
 En [`propuestas-fotograficas/02-sesion-quirofano/`](propuestas-fotograficas/02-sesion-quirofano/).
 
+> ⚠️ **Nota de criterio:** la sesión 02 fue un ejercicio de estilo (quirófano en paleta cálida). En la práctica el quirófano debe mantener el azul. Ver sesión 03 para el criterio definitivo.
+
+### Sesión 03 — Criterio definitivo (Quirófano azul + Consulta verde)
+
+Regla de vestuario según contexto:
+- **Quirófano** → vestuario y grade **azul/teal frío** (norma sanitaria estándar).
+- **Consulta / atención al paciente / staff** → bata **verde olivo** (Tinny Tin) con la **paleta cálida** de marca.
+
+| # | Título | Contexto | Vestuario / Color |
+|---|--------|----------|-------------------|
+| 01 | Cirujano | Quirófano | Azul frío |
+| 02 | Manos en Cirugía | Quirófano | Azul frío |
+| 03 | Médico en Consulta | Consulta | Verde + cálido |
+| 04 | Doctor y Paciente | Consulta | Verde + cálido |
+| 05 | Staff / Recepción | Atención | Verde + cálido |
+
+En [`propuestas-fotograficas/03-quirofano-azul-consulta-verde/`](propuestas-fotograficas/03-quirofano-azul-consulta-verde/).
+
 ## ⚙️ Especificaciones técnicas
 
 - **Generación:** Higgsfield — Nano Banana (Google), resolución 2K
