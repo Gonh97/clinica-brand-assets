@@ -59,6 +59,22 @@ Regla de vestuario según contexto:
 
 En [`propuestas-fotograficas/03-quirofano-azul-consulta-verde/`](propuestas-fotograficas/03-quirofano-azul-consulta-verde/).
 
+### Sesión 04 — Quirófano neutro/blanco (criterio cromático final)
+
+Ajuste de color para cirugía: **paleta neutra/blanca, high-key**, donde **ni el azul ni lo cálido predominan**. Las batas siguen siendo azules (norma sanitaria) pero desaturadas; el ambiente es limpio y luminoso para que **haga puente con la paleta cálida** del resto sin chocar ni contrastar de más.
+
+| # | Título | Contexto | Color |
+|---|--------|----------|-------|
+| 01 | Cirujano — Preparación | Quirófano | Neutro/blanco, azul tenue |
+| 02 | Cirujano — Perfil en foco | Quirófano | Neutro/blanco, azul tenue |
+| 03 | Manos en Cirugía | Quirófano | Neutro/blanco, azul tenue |
+
+En [`propuestas-fotograficas/04-quirofano-neutro-blanco/`](propuestas-fotograficas/04-quirofano-neutro-blanco/).
+
+**Criterio cromático consolidado de la marca:**
+- 🟢 **Consulta / atención / staff** → bata verde olivo + paleta cálida (Grain Brown / Tinny Tin / Marshland)
+- ⚪ **Quirófano / cirugía** → bata azul + paleta neutra/blanca high-key (puente sin contraste duro)
+
 ## ⚙️ Especificaciones técnicas
 
 - **Generación:** Higgsfield — Nano Banana (Google), resolución 2K
